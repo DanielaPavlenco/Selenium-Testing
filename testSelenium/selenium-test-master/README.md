@@ -1,4 +1,4 @@
-# VVS Selenium Test UI
+# Selenium Testing UI
 
 ## Introduction
 The web application that you are going to test is located at https://www.saucedemo.com/.
